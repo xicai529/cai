@@ -25,6 +25,7 @@ This module requires the following modules:
 * readr
 
 
+
 Module Contents
 
 DQModuleFunctions:
@@ -67,6 +68,9 @@ will implement comparison then return a list of varibles that are required but n
 #21 GenerateQueriesAtReqs, create a query column in which executable codes of each function are fitted next to the corresponding request type. 
 
 all codes in #1-#15 are converted to character strings by paste function,and embedded in #21 
+
+
+
 
 
 DQ preprocessing function:
